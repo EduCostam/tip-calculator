@@ -1,0 +1,21 @@
+
+:root {
+    --primary-color: #FFFFFF;
+    --secondary-color: #000000;
+    --tertiary-color: #5E60CE;
+}
+body {
+    background-color: var(--primary-color);
+    font-size: 18px;
+}
+
+#calculator {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    
+    border-radius: 5px;
+}
